@@ -5,6 +5,8 @@ This is a port of the default light theme for Netbeans.
 This is the easiest light theme to use for Tritanomaly color blind users
 (or at least, it is for me).
 
+![Alt text](https://raw.githubusercontent.com/zschuessler/phpstorm-theme-netbeans-default/master/theme-screenshot.png "Theme Screenshot")
+
 ## Do You Have Tritanomaly?
 
 Try this:
