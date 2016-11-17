@@ -3,7 +3,7 @@
     <property name="created">2016-11-17T13:00:09</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.2.2.0.0</property>
-    <property name="modified">2016-11-17T13:00:12</property>
+    <property name="modified">2016-11-17T13:35:04</property>
     <property name="originalScheme">tritanomaly-tritanopia-light</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -12,9 +12,12 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="80be8f" />
     <option name="BORDER_LINES_COLOR" value="666666" />
+    <option name="CARET_ROW_COLOR" value="e9eff8" />
     <option name="DELETED_LINES_COLOR" value="ffa0b4" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="a0c8ff" />
+    <option name="SELECTION_BACKGROUND" value="b0c5e3" />
+    <option name="SELECTION_FOREGROUND" value="" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="a0c8ff" />
   </colors>
   <attributes>
@@ -293,6 +296,12 @@
         <option name="FOREGROUND" value="dd1144" />
       </value>
     </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="BACKGROUND" value="fff9b8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff0000" />
@@ -451,7 +460,6 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

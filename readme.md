@@ -23,7 +23,8 @@ Check this guide for cross-platform instructions:
 http://www.phpstorm-themes.com/content/help
 
 In short, put the `.icls` file in your PhpStorm `config/colors`
-directory.
+directory. Then restart the IDE and select the new theme in your
+settings.
 
 ## Contributing
 
